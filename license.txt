@@ -1,0 +1,18 @@
+Copyright (c) 2026 Oshkosh Corporation. All rights reserved.
+
+This repository and its contents, including but not limited to HTML, CSS,
+JavaScript, images, text, graphics, designs, product visuals, models, animations,
+and other assets, are proprietary to Oshkosh Corporation.
+
+Permission is granted only to view the hosted demonstration page for trade show
+or presentation purposes.
+
+No permission is granted to copy, reproduce, modify, distribute, publish,
+scrape, train machine learning or artificial intelligence models on, create
+derivative works from, or otherwise use this repository or its contents without
+prior written permission from Oshkosh Corporation.
+
+All trademarks, logos, product names, and company names are the property of
+their respective owners.
+
+For permission requests, contact Oshkosh Corporation.
